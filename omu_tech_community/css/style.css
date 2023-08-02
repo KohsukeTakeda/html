@@ -88,13 +88,12 @@ header{
 .user-items{
   margin-top: 32px;
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-around;
   flex-wrap: wrap;
 }
 
 .user-items .item{
-  margin-bottom: 24px;
-  margin-right: 48px;
+  margin: 0 auto 24px;
   text-align: center;
 }
 
